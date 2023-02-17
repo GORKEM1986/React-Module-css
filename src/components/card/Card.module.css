@@ -1,0 +1,13 @@
+.title {
+    text-align: left;
+    color: rgb(183, 112, 71);
+  
+  }
+  .images {
+    display: block;
+    margin: 1rem auto;
+    width: 300px;
+    border-radius: 20%;
+  }
+ 
+  
